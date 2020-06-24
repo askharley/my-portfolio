@@ -104,8 +104,17 @@ Students are composed of mostly disadvantaged individuals who are wanting to lea
 
 # Soft Skills
 
-- Natural leader
+- Natural leader (I tend to have something to say and so far people like what I've had to say)
 - Teacher (I get the most fulfillment from teaching others)
 - Dedicated (I put in the hours)
-- Attentative (I'm a perfectionist)
+- Attentative (I'm a perfectionist to a fault)
 - Team player (I'll make sure everyone on the team is able to do their job before I do mine because the team comes first)
+
+# Hard Skills
+
+- Logical and rational (at least I think so yet maybe everyone does)
+- Good at breaking down problems (just like you'd break down components in React)
+- Detail orientated (if my code isn't perfectly indented then I've messed up)
+- Clean code enthuisiast (if you're not writing clean code then you're just giving everyone a harder time)
+- Functional and objected-orientated approach (lessons from one can solve problems in the other)
+- Most importantly: I actually write unit tests!
