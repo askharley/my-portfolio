@@ -51,7 +51,7 @@ My frontend knowledge coupled with my ability to write C# backend code (in MVC, 
  
 I joined Haefele Software as Junior Software Developer in October of 2017. My project was OnSiteIMS which is a digital solution to the issues that face modern construction. OnSiteIMS allows for all of the parties involved in the construction of a building to communicate and share information effectively and categorically. I've fully redesigned and developed the new OnSiteIMS mobile application using the Ionic 3 framework.
 
-My desire to learn as lead me to grow my skills in other departments and has given me the opportunity to be the business analyst, quality analyst and scrum master for the project.
+My desire to learn lead me to grow my skills in other departments which gave me the opportunity to be the business analyst, quality analyst and scrum master for the project.
  
  #### Where & When (March 2018 - Present) - Co-Founder / Tech Lead
  
