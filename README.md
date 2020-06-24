@@ -118,3 +118,10 @@ Students are composed of mostly disadvantaged individuals who are wanting to lea
 - Clean code enthuisiast (if you're not writing clean code then you're just giving everyone a harder time)
 - Functional and objected-orientated approach (lessons from one can solve problems in the other)
 - Most importantly: I actually write unit tests!
+
+# Self Plug
+
+- [Blog](https://askharley-blog.netlify.app/)
+- [GitHub](https://github.com/askharley)
+- [CodeSandBox](https://codesandbox.io/u/askharley)
+- [dev.to](https://dev.to/askharley)
