@@ -1,9 +1,9 @@
 # Certificates
 
-- Higher Certificate in Information Systems Software Development (Distinction & Cum Laude)
+### Higher Certificate in Information Systems Software Development (Distinction & Cum Laude)
 
-| Subject |
-| ---- |
+| Modules |
+| ------- |
 | Computer Literacy - Microsoft |
 | Processing & Logic Concepts |
 | Program Design |
@@ -17,3 +17,19 @@
 | Hardware Essentials |
 | Perl |
 | Basic C# Programming |
+ 
+ # Degrees
+ ### BSc in Information Technology
+ 
+ | Year One - Modules |
+ | ------- |
+ | Computer Systems |
+ | Introduction to Programming |
+ | Mathematics for Computer Science |
+ | Human Computer Interaction |
+ | Introduction to Information Systems |
+ | Networking Technologies |
+ | Software Development |
+ 
+
+ 
