@@ -1,6 +1,6 @@
 # Certificates
 
-### Higher Certificate in Information Systems Software Development (Distinction & Cum Laude)
+#### Higher Certificate in Information Systems Software Development (Distinction & Cum Laude)
 
 | Modules |
 | ------- |
@@ -19,7 +19,8 @@
 | Basic C# Programming |
  
  # Degrees
- ### BSc in Information Technology
+ 
+ #### BSc in Information Technology
  
  | Year One - Modules |
  | ------- |
@@ -39,3 +40,14 @@
  | Data Structures & Algorithms |
  | Internet Server Management |
  | Project Management |
+ 
+ | Year Three - Modules |
+ | ------- |
+ | Advanced Database Systems |
+ | Internet Programming & E-Commerce 1 |
+ | Object Orientated Systems Analysis & Design |
+ | Social Practises & Security |
+ | Information Systems Strategic Design |
+ | Internet Programming & E Commerce 2 |
+ | Java Distributed Systems |
+ | Operating Systems |
