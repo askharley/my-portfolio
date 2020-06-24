@@ -31,5 +31,11 @@
  | Networking Technologies |
  | Software Development |
  
-
- 
+ | Year Two - Modules |
+ | ------- |
+ | Business Management |
+ | Networking Infrastructure |
+ | Systems Analysis & Design |
+ | Data Structures & Algorithms |
+ | Internet Server Management |
+ | Project Management |
