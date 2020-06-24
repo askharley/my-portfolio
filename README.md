@@ -22,8 +22,8 @@
  
  #### BSc in Information Technology (from CTI)
  
- | Year One - Modules | Year Two - Modules | Year Three - Modules |
- | ------------------ | ----------------- | --------------------- |
+ | Year One  | Year Two | Year Three |
+ | --------- | -------- | ---------- |
  | Computer Systems | Business Management | Advanced Database Systems |
  | Introduction to Programming | Networking Infrastructure |Internet Programming & E-Commerce 1 |
  | Mathematics for Computer Science | Systems Analysis & Design | Object Orientated Systems Analysis & Design |
