@@ -1,6 +1,6 @@
 # Certificates
 
-#### Higher Certificate in Information Systems Software Development (Distinction & Cum Laude)
+#### Higher Certificate in Information Systems Software Development (Distinction & Cum Laude from CTI)
 
 | Modules |
 | ------- |
@@ -20,7 +20,7 @@
  
  # Degrees
  
- #### BSc in Information Technology
+ #### BSc in Information Technology (from CTI)
  
  | Year One - Modules |
  | ------- |
