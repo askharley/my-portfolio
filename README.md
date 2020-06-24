@@ -39,9 +39,13 @@
  
 As I moved into an intermediate position, I moved into a new project - Axsess Today. Axsess Today is an Australian based FinTech company with development teams all over the world. I moved onto a team which taught me a lot about the agile process and being a cog in the machine. This project introduced me to CQRS, event sourcing and domain driven design.
 
-I have further worked on multiple projects this year ranging from a logistics solution for Hellmann, a location based messaging application for an internal project and a portal to optomize certain business operations of Spur Corporation.
+I have further worked on multiple projects this year ranging from a logistics solution for Hellmann, a location based messaging application for an internal project, a portal to optomize certain business operations of Spur Corporation as well as a large middleware project to help consolidate data.
 
-I've grown my skills to extend to Flutter, React and more C# CQRS based back-ends.
+My skills have extended to Azure App Services, Azure Function Apps, Azure Service Bus, Azure Storage, Azure Search services as well as many other Azure features.
+
+On top of that, I've taken it upon my self to run workshops and sessions with other developers where I explain more complex frontend (React, Flutter etc) paradigms so that they can write better code on their projects. Doing this has benefitted other developers and their teams but has also allowed me to gain a deep understanding for a large variety of frontend technologies.
+
+My frontend knowledge coupled with my ability to write C# backend code (in MVC, CQRS etc) and make use of cloud platforms like Azure truly makes me full stack and allows me to understand a solution from the ground up.
  
  #### Haefele Software (October 2017 - October 2018) - Junior Software Developer
  
