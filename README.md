@@ -22,32 +22,13 @@
  
  #### BSc in Information Technology (from CTI)
  
- | Year One - Modules |
+ | Year One - Modules | Year Two - Modules | Year Three - Modules |
  | ------- |
- | Computer Systems |
- | Introduction to Programming |
- | Mathematics for Computer Science |
- | Human Computer Interaction |
- | Introduction to Information Systems |
- | Networking Technologies |
- | Software Development |
- 
- | Year Two - Modules |
- | ------- |
- | Business Management |
- | Networking Infrastructure |
- | Systems Analysis & Design |
- | Data Structures & Algorithms |
- | Internet Server Management |
- | Project Management |
- 
- | Year Three - Modules |
- | ------- |
- | Advanced Database Systems |
- | Internet Programming & E-Commerce 1 |
- | Object Orientated Systems Analysis & Design |
- | Social Practises & Security |
- | Information Systems Strategic Design |
- | Internet Programming & E Commerce 2 |
- | Java Distributed Systems |
- | Operating Systems |
+ | Computer Systems | Business Management | Advanced Database Systems |
+ | Introduction to Programming | Networking Infrastructure |Internet Programming & E-Commerce 1 |
+ | Mathematics for Computer Science | Systems Analysis & Design | Object Orientated Systems Analysis & Design |
+ | Human Computer Interaction | Data Structures & Algorithms | Social Practises & Security |
+ | Introduction to Information Systems | Internet Server Management | Information Systems Strategic Design |
+ | Networking Technologies | Project Management | Internet Programming & E Commerce 2 |
+ | Software Development | | Java Distributed Systems |
+ | | | Operating Systems |
