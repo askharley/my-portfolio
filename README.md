@@ -80,3 +80,22 @@ After my internship, I became a full-time developer where I worked on the larger
 I also developed a course to help train new interns. This course involved me managing and training the interns to help speedup their training and prepare them for what development is actually like.
 
 I worked with Scala, RabbitMQ, MongoDB and the Google Cloud Platform.
+
+# Technologies
+
+- [React](https://reactjs.org/)
+- [Flutter](https://flutter.dev/)
+- [Firebase](https://firebase.google.com/https://azure.microsoft.com/en-us/)
+- [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+- [.NET Core](https://github.com/dotnet/core)
+- [Azure](https://azure.microsoft.com/en-us/)
+- [Ionic](https://ionicframework.com/)
+- [Angular](https://angular.io/)
+
+# Soft Skills
+
+- Natural leader
+- Teacher (I get the most fulfillment from teaching others)
+- Dedicated (I put in the hours)
+- Attentative (I'm a perfectionist)
+- Team player (I'll make sure everyone on the team is able to do their job before I do mine because the team comes first)
