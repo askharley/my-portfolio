@@ -1,3 +1,17 @@
+# About
+
+My summary is that I'm ambitious, driven and hard working.
+
+I've got a higher certificate and a BSc degree (not that a qualifications mean that I know how to code). I've been working since I was 20.
+
+My goal is to learn as much as possible each day and share that with as many people as possible. I run a personal blog where I explain cool stuff, I conduct workshops to teach other developers about certain topics and I'm a mentor for CodeYourFuture which aims to give disadvantaged individuals an opportunity by having volunteers teach them an 8 month coding course.
+
+I learn fast and grow fast so be prepared for that. Coding is my passion first, job second so be ready for me to be the one challenging how we can improve and make stuff better.
+
+The TL;DR for my experience that I've worked in functional languages (like Scala), object orientated languages (like C#) and pretty much every frontend framework you can think of (React, Flutter, Angular, Ionic, Razor etc.).
+
+I do love my frontend work but I'm (in my opinion) truly fullstack. I can write the backend code (pretty rock solidly I might add), host everything in cloud platforms and have a killer frontend for the user. 
+
 # Certificates
 
 #### Higher Certificate in Information Systems Software Development (Distinction & Cum Laude from CTI)
@@ -18,9 +32,9 @@
 | Perl |
 | Basic C# Programming |
  
- # Degrees
+# Degrees
  
- #### BSc in Information Technology (from CTI)
+#### BSc in Information Technology (from CTI)
  
  | Year One  | Year Two | Year Three |
  | --------- | -------- | ---------- |
