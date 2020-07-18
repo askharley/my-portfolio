@@ -49,7 +49,17 @@ I do love my frontend work but I'm (in my opinion) truly fullstack. I can write 
  
  # Experience
  
- #### Haefele Software (November 2018 - Present) - Intermediate Software Developer
+ #### Haefele Software (July 2020 - Present) - Senior Software Developer / Lead Frontend Developer
+ 
+I've moved into a senior developer position along with taking on the responsibilities of a lead frontend developer.
+
+My wide variety of experience with various frontend frameworks coupled with my ability to very rapidly gain a deep understanding of each framework has allowed me to make a real impact on the projects that I'm on. More recently, my focus has moved into sharing as much of this knowledge as possible so that other developers aren't tasked with paying the same school fees I've had to pay.
+
+My desire to share knowledge and help others has tied in well with the timing with Haefele Software as a company believing that they need a frontend focused lead. My responsibilities are going to start with continuing to improve company-wide knowledge around frontend, helping determine a more frontend focused career path for other developers who are more frontend inclined as well as directly helping review and encourage other developers as they go forward on their journey.
+
+My role dictates that I need to stay update with the ever-changing world of frontend software development. I'll need to make judgement calls with sometimes a little amount of information. I'll touch each project that has frontend work to help ensure the quality of code, build a foundation for other developers and answer any questions that teams may have.
+ 
+#### Haefele Software (November 2018 - June 2020) - Intermediate Software Developer
  
 As I moved into an intermediate position, I moved into a new project - Axsess Today. Axsess Today is an Australian based FinTech company with development teams all over the world. I moved onto a team which taught me a lot about the agile process and being a cog in the machine. This project introduced me to CQRS, event sourcing and domain driven design.
 
