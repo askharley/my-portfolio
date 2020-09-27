@@ -91,16 +91,6 @@ I also developed a course to help train new interns. This course involved me man
 
 I worked with Scala, RabbitMQ, MongoDB and the Google Cloud Platform.
 
-# Other
-
-#### CodeYourFuture (April 2020 - Present) - Software Developer
-
-Volunteer mentor and teacher as a part of the Cape Town division of CodeYourFuture. My role is to share my knowledge about code, finding a job, the industry and software in general with the students.
-
-My time will be spent on consolidating the course material, preparing lessons, teaching modules, having drop in sessions with students, answering questions and going through exercises and code. Meetings with students can take place online during the week but there will be an in person session on Saturdays to thoroughly go through lessons, material and exercises.
-
-Students are composed of mostly disadvantaged individuals who are wanting to learn software from ground zero. The course will take place over 8 months with the aim that after completion, students are capable and ready to find work as junior software developers.
-
 # Technologies
 
 - [React](https://reactjs.org/)
